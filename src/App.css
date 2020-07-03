@@ -1,0 +1,10 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+.navbar-brand {
+  color: #fff !important;
+}
+.spinner-container {
+  display: flex;
+  justify-content: center;
+}
