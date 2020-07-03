@@ -31,7 +31,7 @@ function App() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-primary">
-        <a className="navbar-brand">Book Search</a>
+        <a href="/" className="navbar-brand">Book Search</a>
       </nav>
       <div className="container mt-5">
         <div className="input-group">
